@@ -1,0 +1,4 @@
+1. The Breadth First Search is the best way to search through the graph as it makes sure to hit every node.
+2. The Depth First Search is better because theres no way the program will get stuck in a maze.
+3. We had trouble displaying the maze once the program was finished.
+4. The breadth first search will not find the best path, it will find every path. It will return the paths that don't work as well.
